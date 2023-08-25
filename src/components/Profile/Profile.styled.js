@@ -5,6 +5,7 @@ display: block;
 margin-left: auto;
 margin-right: auto;
 margin-top: 80px;
+margin-bottom: 20px;
 border-radius: 10px;
 background-color: white;
 width: 300px;

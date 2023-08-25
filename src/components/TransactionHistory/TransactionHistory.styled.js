@@ -4,8 +4,8 @@ export const Table = styled.table`
 margin-left: auto;
 margin-right: auto;
 margin-top: 80px;
+margin-bottom: 20px;
 width: 600px;
-background-color: ;
 box-shadow:  0px 5px 10px 2px rgba(34, 60, 80, 0.2);
 border: 1px solid;
 border-radius: 10px;

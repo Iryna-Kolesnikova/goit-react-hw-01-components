@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Iryna-Kolesnikova/goit-react-hw-01-components/static/css/main.b5320759.css",
-    "main.js": "/Iryna-Kolesnikova/goit-react-hw-01-components/static/js/main.dc437005.js",
+    "main.js": "/Iryna-Kolesnikova/goit-react-hw-01-components/static/js/main.53838709.js",
     "index.html": "/Iryna-Kolesnikova/goit-react-hw-01-components/index.html",
     "main.b5320759.css.map": "/Iryna-Kolesnikova/goit-react-hw-01-components/static/css/main.b5320759.css.map",
-    "main.dc437005.js.map": "/Iryna-Kolesnikova/goit-react-hw-01-components/static/js/main.dc437005.js.map"
+    "main.53838709.js.map": "/Iryna-Kolesnikova/goit-react-hw-01-components/static/js/main.53838709.js.map"
   },
   "entrypoints": [
     "static/css/main.b5320759.css",
-    "static/js/main.dc437005.js"
+    "static/js/main.53838709.js"
   ]
 }

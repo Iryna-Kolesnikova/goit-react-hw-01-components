@@ -8,7 +8,7 @@ import {
 } from './Statistics.styled';
 export const Statistics = ({ title, stats }) => {
     return (<StatsWraper>
-      <Title>{title }</Title>
+      {title && <Title>{title}</Title>}
       <StatsList>
         {stats.map(({ id, label, percentage }) => {
           return (<StatsItem key={id}>
